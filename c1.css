@@ -1,0 +1,75 @@
+body{
+  background-color: #808080;
+margin: 0;
+}
+.a
+{width:1800px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image:url("sample/b1.jpg");
+border:10px;
+color: white;
+}
+
+.b
+{
+  width:600px;
+  height: 900px;
+float: left;
+  background-image:url("sample/g2 3rd.png");
+  background-size:contain;
+}
+
+.b:hover
+{
+  width:600px;
+  height: 900px;
+float: left;
+  background-image:url("sample/g1.jpg");
+
+  background-size: contain;
+}
+.c
+{
+  width:600px;
+height: 900px;
+overflow: hidden;
+float: left;
+  background-image:url("sample/v1.jpg");
+background-size:cover;
+}
+
+.c:hover
+{
+  width:600px;
+height: 900px;
+overflow: hidden;
+float:left;
+  background-image:url("sample/v2 no.png");
+background-size:contain;
+}
+
+.d
+{
+  width:600px;
+height: 900px;
+overflow: hidden;
+float: left;
+  background-image:url("sample/basebroly.jpg");
+background-size:cover;
+}
+
+.d:hover
+{
+  float: left;
+  width:600px;
+height: 900px;
+
+  background-image:url("sample/broly1.jpg");
+background-size:cover;
+}
+.x
+{
+width: 1800px;
+
+}
